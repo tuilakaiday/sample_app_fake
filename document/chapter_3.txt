@@ -1,0 +1,3 @@
+-rails generate controller Staticpages home help about contact
+-luu y ve cac file dc tao ra : .html.erb, static_pages_controller.rb
+-luu y routes.rb (root_path and get path to page chi dinh)
